@@ -1,0 +1,4 @@
+['homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'google search', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'google search', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'homepage', 'google search']
+['instagram app', 'instagram app', 'facebook.com', 'instagram app', 'instagram app', 'instagram app', 'facebook.com', 'facebook.com', 'instagram app', 'instagram app', 'facebook.com', 'facebook.com', 'facebook.com']
+['campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389', 'campaign utx=1389']
+['newsletter', 'newsletter', 'newsletter', 'newsletter', 'newsletter', 'newsletter', 'newsletter', 'newsletter', 'newsletter']
